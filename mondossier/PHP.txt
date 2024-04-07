@@ -1,0 +1,5 @@
+
+PHP, acronyme de "Hypertext Preprocessor", est un langage de programmation open source principalement utilisé pour le développement web. Créé à l'origine pour la création de pages web dynamiques, PHP est aujourd'hui largement adopté et intégré à de nombreux projets web.
+Sa syntaxe est similaire à celle du langage C, ce qui le rend accessible aux développeurs avec une expérience dans ce domaine. PHP est exécuté côté serveur, générant du code HTML qui est ensuite envoyé au navigateur, permettant ainsi la création de sites web interactifs et dynamiques.
+Les fonctionnalités clés de PHP incluent la gestion de formulaires, la manipulation de bases de données, la création de sessions utilisateur, et bien plus encore. Sa flexibilité en fait un choix populaire pour les sites web de toutes tailles. De plus, PHP est compatible avec de nombreux systèmes de gestion de bases de données, ce qui facilite l'intégration avec différentes technologies web.
+

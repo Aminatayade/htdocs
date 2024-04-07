@@ -1,0 +1,7 @@
+web: ensemble de page hypertexte interconnecté
+service d'internet dedier a l'echange de documents hypertexte
+Intranet: variant d'internet accessible a l'interieur de l'entreprise . En effet c'est le contenu qui n'est accessible qu'a l'interieur de l'entreprise .
+extranet: on les definit pour les partenaires de l'organisation
+pour cela il est necessaire d'avoir un systeme de nommage sans embiguite (piliers)
+chaque service d'internet est regit par un protocole on utilise http pour internet
+

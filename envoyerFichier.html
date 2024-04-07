@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulaire d'envoi de fichier</title>
+</head>
+<body>
+
+<!-- Formulaire d'envoi de fichier -->
+<form method="post" action="stocke.php" enctype="multipart/form-data">
+    <label for="nomFichier">Choisir un fichier :</label>
+    <input type="file" name="nomFichier" id="nomFichier" accept=".txt">
+    <input type="submit" value="Envoyer">
+</form>
+
+<!-- Formulaire pour rechercher un motif -->
+<form method="post" action="stocke.php">
+    <label for="motif">Rechercher un motif :</label>
+    <input type="text" name="motif" id="motif">
+    <input type="submit" value="Rechercher">
+</form>
+</body>
+</html>
